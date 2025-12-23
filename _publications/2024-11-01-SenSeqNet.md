@@ -1,14 +1,14 @@
 ---
 title: "SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences"
-collection: underreview
-category: manuscripts
+collection: Aging Cell
+category: Research Article
 permalink: 
-excerpt: 'This study introduces SenSeqNet, a deep learning framework aimed at the detection of cellular senescence from protein sequences, addressing the limitations of traditional wet lab assays. By employing the Evolutionarily Scaled Model (ESM-2) for feature extraction followed by a hybrid architecture incorporating long short-term memory (LSTM) and convolutional neural networks (CNNs), the model achieved an accuracy of 83.55% on independent testing benchmarks.'
-date: 2024-11-01
-venue: 'bioRxiv'
+excerpt: 'This study introduces SenSeqNet, a deep learning framework aimed at the detection of cellular senescence from protein sequences, addressing the limitations of traditional wet lab assays. By employing the Evolutionary Scale Modeling (ESM-2) for feature extraction followed by a hybrid architecture incorporating long short-term memory (LSTM) and convolutional neural networks (CNNs), the model achieved an accuracy of 86.43% on independent testing benchmarks.'
+date: 2025-12-23
+venue: 'Aging Cell'
 slidesurl:
-paperurl: 'https://www.biorxiv.org/content/10.1101/2024.10.28.620702v1.article-info'
-citation: '
-Hanli Jiang, Li Lin, Dongliang Deng, Jianyu Ren, Xin Yang, Siyi Liu, Lubin Liu. SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences.
-bioRxiv 2024. doi: https://doi.org/10.1101/2024.10.28.620702'
+paperurl: 'https://doi.org/10.1111/acel.70344'
+# citation: '
+# Hanli Jiang, Li Lin, Dongliang Deng, Jianyu Ren, Xin Yang, Siyi Liu, Lubin Liu. SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences.
+# bioRxiv 2024. doi: https://doi.org/10.1101/2024.10.28.620702'
 ---
