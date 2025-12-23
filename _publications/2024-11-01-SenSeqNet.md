@@ -7,7 +7,7 @@ excerpt: 'This study introduces SenSeqNet, a deep learning framework aimed at th
 date: 2025-12-23
 venue: 'Aging Cell'
 slidesurl:
-paperurl: 'https://doi.org/10.1111/acel.70344'
+link: 'https://doi.org/10.1111/acel.70344'
 # citation: '
 # Hanli Jiang, Li Lin, Dongliang Deng, Jianyu Ren, Xin Yang, Siyi Liu, Lubin Liu. SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences.
 # bioRxiv 2024. doi: https://doi.org/10.1101/2024.10.28.620702'
